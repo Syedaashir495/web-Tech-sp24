@@ -60,7 +60,7 @@
 }
 
 .btn--hollow:hover {
-    background-color: rgba(246, 91, 102, 0.2); /* Change the background color to a transparent shade of the text */
+    background-color: rgba(246, 91, 102, 0.2); 
 }
 
   
@@ -88,7 +88,7 @@
 }
 
 .btn--primary:hover {
-    background-color: rgb(215 81 92 / var(--tw-bg-opacity)); /* Darker shade of the button color */
+    background-color: rgb(215 81 92 / var(--tw-bg-opacity));
 }
 
 
